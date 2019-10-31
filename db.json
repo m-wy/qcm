@@ -19,11 +19,11 @@
   "answers": [
     {
       "id": 1,
-      "responses" : 3
+      "responses" : [3]
     },
     {
       "id": 2,
-      "responses" : 1
+      "responses" : [1]
     },
     {
       "id": 3,
